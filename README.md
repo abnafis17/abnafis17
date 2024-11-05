@@ -12,13 +12,5 @@ Skills: Python/WordPress/ JS / HTML / CSS
 - 📫 How to reach me: bakhtiyarnafis17@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/abnafis17/abnafis17)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/bakhtiyar-nafis-747616189//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/@MyComputerSchool)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/abnafis17/abnafis17)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/abnafis17/abnafis17&show_icons=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/abnafis17/abnafis17)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/abnafis17/abnafis17)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/abnafis17)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/bakhtiyar-nafis-747616189//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/@MyComputerSchool)  
 
