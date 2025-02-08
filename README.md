@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/bakhtiyar-nafis-747616189" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bakhtiyar-nafis-747616189" height="30" width="40" /></a>
 <a href="https://fb.com/nafisur.rahman.391" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nafisur.rahman.391" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@mycomputerschool" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@mycomputerschool" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@mycomputerschool" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@mycomputerschool" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/allama_bakhtiyar_nafis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="allama_bakhtiyar_nafis" height="30" width="40" /></a>
 </p>
 
